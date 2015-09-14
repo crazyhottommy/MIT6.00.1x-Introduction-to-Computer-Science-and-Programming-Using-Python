@@ -1,7 +1,10 @@
 # 6.00 Problem Set 3
 # 
-# Hangman game
+# Hangman game: https://en.wikipedia.org/wiki/Hangman_(game)
 #
+
+## to start play this game, put the script in the same directory as the words.txt file
+## and then: python week3_hangman.py
 
 import random
 import string
